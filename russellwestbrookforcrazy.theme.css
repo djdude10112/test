@@ -1,5 +1,5 @@
 /**
- * @name pennyhardawayfixed
+ * @name russforcrazy
  * @author Disease#5663
  * @version 1.0.11
  * @description macOS with barely any customization.
@@ -17,13 +17,13 @@
 @import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Apple.css');
 
 :root {
-  --accent-hue: 202;
-  --accent-saturation: 41%;
-  --accent-brightness: 67%;
+  --accent-hue: 0;
+  --accent-saturation: 0%;
+  --accent-brightness: 100%;
   --background-accent-hue: 160;
   --background-accent-saturation: 100%;
   --background-accent-brightness: 67%;
-  --background-image: url('https://i.imgur.com/r0zlkke.jpg'); /* url(https://site.com/foobar.png) | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
+  --background-image: url('https://cdn.discordapp.com/attachments/612299355009056781/1108768433597853766/1138761420.png'); /* url(https://site.com/foobar.png) | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
   --background-image-position: center;
   --background-image-size: cover;
   --background-image-blur: 0px;
