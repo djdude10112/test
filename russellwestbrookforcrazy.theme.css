@@ -17,9 +17,9 @@
 @import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Apple.css');
 
 :root {
-  --accent-hue: 0;
-  --accent-saturation: 0%;
-  --accent-brightness: 100%;
+  --accent-hue: 200;
+  --accent-saturation: 50%;
+  --accent-brightness: 67%;
   --background-accent-hue: 160;
   --background-accent-saturation: 100%;
   --background-accent-brightness: 67%;
